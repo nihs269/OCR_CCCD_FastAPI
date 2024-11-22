@@ -13,7 +13,6 @@ from DetecInfoBoxes.GetBoxes import GetDictionary
 from NamOcr.tool.predictor import Predictor
 from NamOcr.tool.config import Cfg as Cfg_vietocr
 from config import opt
-from urllib.parse import urlparse
 from pydantic import HttpUrl
 
 
